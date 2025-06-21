@@ -1,0 +1,306 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{701A8BFB-502B-4514-A6B1-14A615685965}|Management\\Management.csproj|c:\\users\\lathu\\onedrive\\attachments\\management new\\management\\management\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701A8BFB-502B-4514-A6B1-14A615685965}|Management\\Management.csproj|solutionrelative:management\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701A8BFB-502B-4514-A6B1-14A615685965}|Management\\Management.csproj|c:\\users\\lathu\\onedrive\\attachments\\management new\\management\\management\\views\\addcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{701A8BFB-502B-4514-A6B1-14A615685965}|Management\\Management.csproj|solutionrelative:management\\views\\addcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701A8BFB-502B-4514-A6B1-14A615685965}|Management\\Management.csproj|c:\\users\\lathu\\onedrive\\attachments\\management new\\management\\management\\views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{701A8BFB-502B-4514-A6B1-14A615685965}|Management\\Management.csproj|solutionrelative:management\\views\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701A8BFB-502B-4514-A6B1-14A615685965}|Management\\Management.csproj|c:\\users\\lathu\\onedrive\\attachments\\management new\\management\\management\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701A8BFB-502B-4514-A6B1-14A615685965}|Management\\Management.csproj|solutionrelative:management\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701A8BFB-502B-4514-A6B1-14A615685965}|Management\\Management.csproj|c:\\users\\lathu\\onedrive\\attachments\\management new\\management\\management\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701A8BFB-502B-4514-A6B1-14A615685965}|Management\\Management.csproj|solutionrelative:management\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701A8BFB-502B-4514-A6B1-14A615685965}|Management\\Management.csproj|c:\\users\\lathu\\onedrive\\attachments\\management new\\management\\management\\views\\addsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{701A8BFB-502B-4514-A6B1-14A615685965}|Management\\Management.csproj|solutionrelative:management\\views\\addsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701A8BFB-502B-4514-A6B1-14A615685965}|Management\\Management.csproj|C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\management\\views\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{701A8BFB-502B-4514-A6B1-14A615685965}|Management\\Management.csproj|solutionrelative:management\\views\\adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701A8BFB-502B-4514-A6B1-14A615685965}|Management\\Management.csproj|c:\\users\\lathu\\onedrive\\attachments\\management new\\management\\management\\views\\addlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701A8BFB-502B-4514-A6B1-14A615685965}|Management\\Management.csproj|solutionrelative:management\\views\\addlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701A8BFB-502B-4514-A6B1-14A615685965}|Management\\Management.csproj|C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\management\\views\\addlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{701A8BFB-502B-4514-A6B1-14A615685965}|Management\\Management.csproj|solutionrelative:management\\views\\addlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701A8BFB-502B-4514-A6B1-14A615685965}|Management\\Management.csproj|c:\\users\\lathu\\onedrive\\attachments\\management new\\management\\management\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701A8BFB-502B-4514-A6B1-14A615685965}|Management\\Management.csproj|solutionrelative:management\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701A8BFB-502B-4514-A6B1-14A615685965}|Management\\Management.csproj|c:\\users\\lathu\\onedrive\\attachments\\management new\\management\\management\\data\\dbcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701A8BFB-502B-4514-A6B1-14A615685965}|Management\\Management.csproj|solutionrelative:management\\data\\dbcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701A8BFB-502B-4514-A6B1-14A615685965}|Management\\Management.csproj|c:\\users\\lathu\\onedrive\\attachments\\management new\\management\\management\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701A8BFB-502B-4514-A6B1-14A615685965}|Management\\Management.csproj|solutionrelative:management\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701A8BFB-502B-4514-A6B1-14A615685965}|Management\\Management.csproj|c:\\users\\lathu\\onedrive\\attachments\\management new\\management\\management\\controllers\\markcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701A8BFB-502B-4514-A6B1-14A615685965}|Management\\Management.csproj|solutionrelative:management\\controllers\\markcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701A8BFB-502B-4514-A6B1-14A615685965}|Management\\Management.csproj|c:\\users\\lathu\\onedrive\\attachments\\management new\\management\\management\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701A8BFB-502B-4514-A6B1-14A615685965}|Management\\Management.csproj|solutionrelative:management\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701A8BFB-502B-4514-A6B1-14A615685965}|Management\\Management.csproj|C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\management\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{701A8BFB-502B-4514-A6B1-14A615685965}|Management\\Management.csproj|solutionrelative:management\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701A8BFB-502B-4514-A6B1-14A615685965}|Management\\Management.csproj|c:\\users\\lathu\\onedrive\\attachments\\management new\\management\\management\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701A8BFB-502B-4514-A6B1-14A615685965}|Management\\Management.csproj|solutionrelative:management\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{701A8BFB-502B-4514-A6B1-14A615685965}|Management\\Management.csproj|C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\management\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{701A8BFB-502B-4514-A6B1-14A615685965}|Management\\Management.csproj|solutionrelative:management\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddCourse.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\Management\\Views\\AddCourse.cs",
+              "RelativeDocumentMoniker": "Management\\Views\\AddCourse.cs",
+              "ToolTip": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\Management\\Views\\AddCourse.cs [Design]*",
+              "RelativeToolTip": "Management\\Views\\AddCourse.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T03:43:59.427Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SubjectController.cs",
+              "DocumentMoniker": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\Management\\Controllers\\SubjectController.cs",
+              "RelativeDocumentMoniker": "Management\\Controllers\\SubjectController.cs",
+              "ToolTip": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\Management\\Controllers\\SubjectController.cs",
+              "RelativeToolTip": "Management\\Controllers\\SubjectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T03:41:38.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\Management\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "Management\\Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\Management\\Models\\Subject.cs",
+              "RelativeToolTip": "Management\\Models\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T03:41:06.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\Management\\Views\\MainForm.cs",
+              "RelativeDocumentMoniker": "Management\\Views\\MainForm.cs",
+              "ToolTip": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\Management\\Views\\MainForm.cs [Design]*",
+              "RelativeToolTip": "Management\\Views\\MainForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T03:32:47.165Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\Management\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Management\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\Management\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Management\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T03:19:08.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddSubject.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\Management\\Views\\AddSubject.cs",
+              "RelativeDocumentMoniker": "Management\\Views\\AddSubject.cs",
+              "ToolTip": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\Management\\Views\\AddSubject.cs [Design]",
+              "RelativeToolTip": "Management\\Views\\AddSubject.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T03:40:03.507Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddLogin.cs",
+              "DocumentMoniker": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\Management\\Views\\AddLogin.cs",
+              "RelativeDocumentMoniker": "Management\\Views\\AddLogin.cs",
+              "ToolTip": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\Management\\Views\\AddLogin.cs*",
+              "RelativeToolTip": "Management\\Views\\AddLogin.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T03:31:39.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\Management\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "Management\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\Management\\Models\\Login.cs",
+              "RelativeToolTip": "Management\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T03:31:29.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\Management\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Management\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\Management\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Management\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T03:18:51.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\Management\\Views\\AddUser.cs",
+              "RelativeDocumentMoniker": "Management\\Views\\AddUser.cs",
+              "ToolTip": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\Management\\Views\\AddUser.cs [Design]",
+              "RelativeToolTip": "Management\\Views\\AddUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T18:19:24.246Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MarkController.cs",
+              "DocumentMoniker": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\Management\\Controllers\\MarkController.cs",
+              "RelativeDocumentMoniker": "Management\\Controllers\\MarkController.cs",
+              "ToolTip": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\Management\\Controllers\\MarkController.cs",
+              "RelativeToolTip": "Management\\Controllers\\MarkController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T03:19:16.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ExamController.cs",
+              "DocumentMoniker": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\Management\\Controllers\\ExamController.cs",
+              "RelativeDocumentMoniker": "Management\\Controllers\\ExamController.cs",
+              "ToolTip": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\Management\\Controllers\\ExamController.cs",
+              "RelativeToolTip": "Management\\Controllers\\ExamController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T03:18:36.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\Management\\Views\\AddLogin.cs",
+              "RelativeDocumentMoniker": "Management\\Views\\AddLogin.cs",
+              "ToolTip": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\Management\\Views\\AddLogin.cs [Design]*",
+              "RelativeToolTip": "Management\\Views\\AddLogin.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T18:33:55.87Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DbCon.cs",
+              "DocumentMoniker": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\Management\\Data\\DbCon.cs",
+              "RelativeDocumentMoniker": "Management\\Data\\DbCon.cs",
+              "ToolTip": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\Management\\Data\\DbCon.cs",
+              "RelativeToolTip": "Management\\Data\\DbCon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T03:22:21.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\Management\\Form1.cs",
+              "RelativeDocumentMoniker": "Management\\Form1.cs",
+              "ToolTip": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\Management\\Form1.cs [Design]",
+              "RelativeToolTip": "Management\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T18:44:27.743Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\Management\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Management\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\Management\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Management\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T18:29:35.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\Management\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Management\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\lathu\\OneDrive\\Attachments\\Management New\\Management\\Management\\Models\\User.cs",
+              "RelativeToolTip": "Management\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T18:29:00.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
